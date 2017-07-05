@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer>
+<address>
+<city>Columbia</city>
+<state>SC</state>
+<street>1201 Still Pastures Drive</street>
+<zipCode>29210</zipCode>
+</address>
+<firstName>Billy</firstName>
+<id>4</id>
+<lastName>Jones</lastName>
+</customer>
